@@ -5,7 +5,7 @@
 🔐 Currently working on HTB machines and Natas wargames
 
 🛠️ Projects:
-- Port Scanner
-- File Integrity Checker
+- ✅ Port Scanner
+- ✅ File Integrity Checker
 
 🌱 Learning: Penetration Testing, Network Security, Python
