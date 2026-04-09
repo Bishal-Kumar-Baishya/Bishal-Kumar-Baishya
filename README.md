@@ -7,5 +7,6 @@
 🛠️ Projects:
 - ✅ Port Scanner
 - ✅ File Integrity Checker
+- ✅ Vulnerable Web App (Flask)
 
 🌱 Learning: Penetration Testing, Network Security, Python
