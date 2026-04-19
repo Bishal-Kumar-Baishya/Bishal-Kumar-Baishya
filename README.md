@@ -8,5 +8,7 @@
 - ✅ Port Scanner
 - ✅ File Integrity Checker
 - ✅ Vulnerable Web App (Flask)
+- ✅ Log Analyzer
+- ✅ Brute Force Simulator
 
 🌱 Learning: Penetration Testing, Network Security, Python
