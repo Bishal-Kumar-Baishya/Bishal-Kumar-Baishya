@@ -10,5 +10,8 @@
 | 🔎 Blind SQLi | [Blind SQLi Script](https://github.com/Bishal-Kumar-Baishya/portswigger-labs/tree/master/SQLi) | Automated password extraction |
 | 📋 Detection | [Log Analyzer](https://github.com/Bishal-Kumar-Baishya/Log-Analyzer) | Spot attack patterns in logs |
 | 🛡️ Defense | [File Integrity Checker](https://github.com/Bishal-Kumar-Baishya/file_integrity_checker) | Detect unauthorized file changes |
+| 🟡 Credential Defense | [Password Strength Checker](https://github.com/Bishal-Kumar-Baishya/Password-strength-checker) | Evaluate and score password strength |
+| 🔍 Reconnaissance | [Network Traffic Monitor](https://github.com/Bishal-Kumar-Baishya/Network-traffic-monitor) | Detect suspicious connections in real time |
+| 🔍 Reconnaissance | [Linux Recon Tool](https://github.com/Bishal-Kumar-Baishya/linux-recon-tool) | Bash-based system recon for Linux targets |
 
-🌱 Learning: Penetration Testing, Network Security, Python
+🌱 Learning: Penetration Testing, Network Security, Python, Linux
