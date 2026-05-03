@@ -7,7 +7,7 @@
 | 🔍 Reconnaissance | [Port Scanner](https://github.com/Bishal-Kumar-Baishya/port_scanner) | Discover open ports and services |
 | 💉 Exploitation | [Vulnerable Flask App](https://github.com/Bishal-Kumar-Baishya/Vulnerability_web_app) | SQLi and XSS demonstration |
 | 🔑 Credential Attack | [Brute Force Simulator](https://github.com/Bishal-Kumar-Baishya/Brute-force-simulator) | Wordlist attack with logging and lockout |
-| 🔎 Blind SQLi | [Blind SQLi Script](https://github.com/Bishal-Kumar-Baishya/portswigger-labs/tree/master/SQLi) | Automated password extraction |
+| 🔎 SQLi | [SQLi Scripts](https://github.com/Bishal-Kumar-Baishya/portswigger-labs/tree/master/SQLi) | Automated password extraction |
 | 📋 Detection | [Log Analyzer](https://github.com/Bishal-Kumar-Baishya/Log-Analyzer) | Spot attack patterns in logs |
 | 🛡️ Defense | [File Integrity Checker](https://github.com/Bishal-Kumar-Baishya/file_integrity_checker) | Detect unauthorized file changes |
 | 🟡 Credential Defense | [Password Strength Checker](https://github.com/Bishal-Kumar-Baishya/Password-strength-checker) | Evaluate and score password strength |
