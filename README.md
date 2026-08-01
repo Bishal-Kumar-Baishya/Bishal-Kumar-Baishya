@@ -1,17 +1,15 @@
-# Hi, I'm Bishal
 
-🎓 B.Tech CSE student passionate about cybersecurity
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bishal Kumar Baishya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalkumarbaishya88@gmail.com) 
 
-| Stage | Project | Description |
-|-------|---------|-------------|
-| 🔍 Reconnaissance | [Port Scanner](https://github.com/Bishal-Kumar-Baishya/port_scanner) | Discover open ports and services |
-| 💉 Exploitation | [Vulnerable Flask App](https://github.com/Bishal-Kumar-Baishya/Vulnerability_web_app) | SQLi and XSS demonstration |
-| 🔑 Credential Attack | [Brute Force Simulator](https://github.com/Bishal-Kumar-Baishya/Brute-force-simulator) | Wordlist attack with logging and lockout |
-| 🔎 SQLi | [SQLi Scripts](https://github.com/Bishal-Kumar-Baishya/portswigger-labs/tree/master/SQLi) | Automated password extraction |
-| 📋 Detection | [Log Analyzer](https://github.com/Bishal-Kumar-Baishya/Log-Analyzer) | Spot attack patterns in logs |
-| 🛡️ Defense | [File Integrity Checker](https://github.com/Bishal-Kumar-Baishya/file_integrity_checker) | Detect unauthorized file changes |
-| 🟡 Credential Defense | [Password Strength Checker](https://github.com/Bishal-Kumar-Baishya/Password-strength-checker) | Evaluate and score password strength |
-| 🔍 Reconnaissance | [Network Traffic Monitor](https://github.com/Bishal-Kumar-Baishya/Network-traffic-monitor) | Detect suspicious connections in real time |
-| 🔍 Reconnaissance | [Linux Recon Tool](https://github.com/Bishal-Kumar-Baishya/linux-recon-tool) | Bash-based system recon for Linux targets |
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Bishal-Kumar-Baishya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Bishal-Kumar-Baishya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bishal-Kumar-Baishya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 Learning: Penetration Testing, Network Security, Python, Linux
+---
+[![](https://komarev.com/ghpvc/?username=Bishal-Kumar-Baishya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
