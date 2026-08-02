@@ -1,5 +1,5 @@
 # 💫 About Me:
-PortSwigger Web Security labs, HTB machines, and building security automation toolsOpen source security tools, CTF challenges, HTB machines<br><br>Penetration Testing, Network Security, Web Application Exploitation<br><br>Built 9+ security projects from scratch while learning independently
+PortSwigger Web Security labs, HTB machines, and building security automation tools<br><br>Open source security tools, CTF challenges, HTB machines<br><br>Penetration Testing, Network Security, Web Application Exploitation<br><br>Built 9+ security projects from scratch while learning independently
 
 
 ## 🌐 Socials:
