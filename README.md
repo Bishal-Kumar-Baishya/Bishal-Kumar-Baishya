@@ -1,43 +1,15 @@
-# Bishal-Kumar-Baishya
+# 💫 About Me:
+PortSwigger Web Security labs, HTB machines, and building security automation tools<br><br>Open source security tools, CTF challenges, HTB machines<br><br>Penetration Testing, Network Security, Web Application Exploitation<br><br>Built 9+ security projects from scratch while learning independently
+PortSwigger Web Security labs, HTB machines, and building security automation tools<br>Open source security tools, CTF challenges, HTB machines<br>Penetration Testing, Network Security, Web Application Exploitation<br>Built 9+ security projects from scratch while learning independently
 
-> Memorable developer positioning.
 
-**Theme:** Neon · **Style:** Minimal · **Agent:** Full-Stack Engineer
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bishalkumarbaishya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-kumar-baishya-022b56412/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalkumarbaishya88@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bishalkumarbaishya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishal-kumar-baishya-022b56412) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalkumarbaishya88@gmail.com) 
 
-## Heatmap
-Animated year-long contribution calendar.
-## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Bishal-Kumar-Baishya&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Bishal-Kumar-Baishya&theme=neon" alt="Bishal-Kumar-Baishya stats section" />
-  </picture>
-</p>
-## Header
-Hi, I'm **Bishal-Kumar-Baishya**. This README is tuned for **personal brand** with a Neon visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Bishal-Kumar-Baishya&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=Bishal-Kumar-Baishya&theme=neon" alt="Bishal-Kumar-Baishya hero section" />
-  </picture>
-</p>
-## Connect
-> Editing this section in the inspector.
-LinkedIn: bishal-kumar-baishya-022b56412 · Email: bishalkumarbaishya88@gmail.com
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Bishal-Kumar-Baishya&theme=neon&linkedin=bishal-kumar-baishya-022b56412&email=bishalkumarbaishya88%40gmail.com&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=Bishal-Kumar-Baishya&theme=neon&linkedin=bishal-kumar-baishya-022b56412&email=bishalkumarbaishya88%40gmail.com" alt="Bishal-Kumar-Baishya social section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Bishal-Kumar-Baishya&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=Bishal-Kumar-Baishya&theme=neon" alt="Bishal-Kumar-Baishya projects section" />
-  </picture>
-</p>
-
-<!-- Sections: Heatmap, GitHub Stats, Header, Connect, Projects -->
+# 💻 Tech Stack:
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Bishal-Kumar-Baishya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Bishal-Kumar-Baishya&theme=dark&hide_border=false)<br/>
