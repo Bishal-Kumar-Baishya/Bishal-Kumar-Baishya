@@ -1,5 +1,13 @@
 # 💫 About Me:
-PortSwigger Web Security labs, HTB machines, and building security automation tools<br><br>Open source security tools, CTF challenges, HTB machines<br><br>Penetration Testing, Network Security, Web Application Exploitation<br><br>Built 9+ security projects from scratch while learning independently
+🔓 Penetration Tester | Red Team Builder | Breaking systems to secure them
+<br><br>
+I obsess over web application vulnerabilities, network exploitation, and building security automation tools. I don't just follow tutorials — I systematically test hypotheses, break things methodically, and document why they break. Currently grinding through PortSwigger labs, HackTheBox machines, and TryHackMe's penetration testing path while building security projects from scratch.<br><br>
+
+I'm driven by something most people ignore: the reality of our digitized world. Our data roams everywhere — companies extract it, sell it, exploit it. I can't retreat from this era; I have to adapt to it. That's why I chose cybersecurity: to understand how data moves through the internet, how systems are compromised, and where vulnerabilities exist. Once you grasp this knowledge, you can't unsee the real world. Being ignorant might feel like a happy life, but understanding how systems actually work is the only way to protect yourself and reclaim your privacy.<br><br>
+
+I work independently, solve problems through systematic testing, and believe the best learning happens when you own the entire journey — from reconnaissance to exploitation to documentation.<br><br>
+
+Currently: B.Tech CSE | PortSwigger Web Security Academy deep-dive | HTB machine exploitation | TryHackMe Jr Pentester path | 10+ security projects from scratch
 
 
 ## 🌐 Socials:
